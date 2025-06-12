@@ -1,2 +1,0 @@
-docker.io/rancher/hardened-cni-plugins:v1.6.2-build20250306
-docker.io/rancher/hardened-multus-cni:v4.1.4-build20250108
